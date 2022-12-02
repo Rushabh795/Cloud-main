@@ -1,0 +1,2 @@
+rootProject.name='CareerConnect'
+include ':app'

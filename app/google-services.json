@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253010575280",
+    "firebase_url": "https://careerconnect-96970-default-rtdb.firebaseio.com",
+    "project_id": "careerconnect-96970",
+    "storage_bucket": "careerconnect-96970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253010575280:android:36ed787e48c59bc1882075",
+        "android_client_info": {
+          "package_name": "com.careerconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253010575280-cc7l23pvfbebb35op6ltar0f5o3sf52i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfTrVEyiGFtn5Dr40ED61iWMXU8xpXqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253010575280-cc7l23pvfbebb35op6ltar0f5o3sf52i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
