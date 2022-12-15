@@ -49,6 +49,7 @@
 
 
         </RelativeLayout>
+        <!-- Main Grid View which has all the menus for user  -->
 
         <GridLayout
             android:columnOrderPreserved="false"

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bgapps"
     tools:context="com.careerconnect.adminHome">
-
+<!-- Main Layout -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -49,6 +49,7 @@
 
 
         </RelativeLayout>
+        <!-- Grid Layout for menus-->
 
         <GridLayout
             android:columnOrderPreserved="false"

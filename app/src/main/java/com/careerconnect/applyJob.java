@@ -39,14 +39,13 @@ public class applyJob extends AppCompatActivity {
 
         FirebaseUser mUser = mAuth.getCurrentUser();
         String uId = mUser.getUid();
-
+//take reference from the firebase
         mApplyJob = FirebaseDatabase.getInstance().getReference().child("Apply Job").child(uId);
 
         mPublicDatabase = FirebaseDatabase.getInstance().getReference().child("Public database");
 
 
         ApplyforJob();
-
 
 
     }
@@ -70,7 +69,7 @@ public class applyJob extends AppCompatActivity {
                 String Cadvert = advert_name.getText().toString().trim();
                 String jobqual = jobqualification.getText().toString().trim();
                 String jexp = experience.getText().toString().trim();
-
+//validate all the Field
                 if (TextUtils.isEmpty(cName)) {
                     company_name.setError("Required Field!");
                     return;
@@ -104,14 +103,14 @@ public class applyJob extends AppCompatActivity {
                 String id = mApplyJob.push().getKey();
 
                 String date = DateFormat.getDateInstance().format(new Date());
-
-                jobApply data = new jobApply(cName,Ccontact,Cemailid,Cadvert,jobqual,jexp,id,date);
-
+//push all the data to model class
+                jobApply data = new jobApply(cName, Ccontact, Cemailid, Cadvert, jobqual, jexp, id, date);
+//set the data to firebase
                 mApplyJob.child(id).setValue(data);
 
                 mPublicDatabase.child(id).setValue(data);
 
-                Toast.makeText(getApplicationContext(),"Application sent",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Application sent", Toast.LENGTH_SHORT).show();
 
                 startActivity(new Intent(getApplicationContext(), Home.class));
 

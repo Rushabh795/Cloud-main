@@ -62,7 +62,7 @@ public class ShowProfile extends AppCompatActivity {
                 String certification=dataSnapshot.child("certifications").getValue(String.class);
                 String workexp=dataSnapshot.child("workexp").getValue(String.class);
                 String dob=dataSnapshot.child("dob").getValue(String.class);
-
+//set the value in textbox
 
                 tv_name.setText(name);
                 tv_sex.setText(sex);

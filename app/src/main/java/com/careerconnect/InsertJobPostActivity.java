@@ -76,7 +76,7 @@ public class InsertJobPostActivity extends AppCompatActivity {
                 String skills = job_skills.getText().toString().trim();
                 String jobSalary = salary.getText().toString().trim();
                 String jlocation = location.getText().toString().trim();
-
+//check all the fields for validation
                 if (TextUtils.isEmpty(cName)) {
                     company_name.setError("Required Field!");
                     return;
@@ -112,7 +112,7 @@ public class InsertJobPostActivity extends AppCompatActivity {
                 String date = DateFormat.getDateInstance().format(new Date());
 
                 Data data = new Data(cName,title,description,skills,jobSalary,jlocation,id,date);
-
+//Push job data to firebase and post the job
                 mJobPost.child(id).setValue(data);
 
                 mPublicDatabase.child(id).setValue(data);

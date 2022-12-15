@@ -25,6 +25,7 @@ public class adminHome extends AppCompatActivity {
         post = findViewById(R.id.postJob);
 
         Candidates = findViewById(R.id.viewCand);
+        //Redirect to Admin Pst job page in which admin can post the job
 
         post.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,6 +34,7 @@ public class adminHome extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        //Redirect to Admin Candidate job page in which admin can see the candidates list
 
         Candidates.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -42,6 +44,7 @@ public class adminHome extends AppCompatActivity {
             }
         });
 
+        // admin can do logout
 
         logoutButn.setOnClickListener(new View.OnClickListener() {
             @Override

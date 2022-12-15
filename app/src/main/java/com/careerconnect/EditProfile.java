@@ -71,7 +71,7 @@ public class EditProfile extends AppCompatActivity implements View.OnClickListen
         mAuth = FirebaseAuth.getInstance();
         FirebaseUser user = mAuth.getCurrentUser();
         mStorageReference= FirebaseStorage.getInstance().getReference();
-
+//taking the current user login information
         mDatabasereference= FirebaseDatabase.getInstance().getReference((Constants.DATABASE_PATH_UPLOADS+"/"+user.getUid()+"/"));
         databaseReference=FirebaseDatabase.getInstance().getReference();
 
@@ -149,7 +149,7 @@ public class EditProfile extends AppCompatActivity implements View.OnClickListen
         String workexp =workexp_spinner.getSelectedItem().toString();
         String email = user.getEmail();
         String dob=u_dob.getText().toString();
-
+//Check the all the field
         if (name.isEmpty()){
             u_name.setError("Name Required");
             u_name.requestFocus();
@@ -184,11 +184,11 @@ public class EditProfile extends AppCompatActivity implements View.OnClickListen
             u_dob.requestFocus();
             return;
         }
-
+//Save the details of the user
         SaveUserProfile sp=new SaveUserProfile(name,city,address
                 ,skills,achievements,certifications,workexp,ugcourse,pgcourse,sex,email,dob);
 
-
+//Update user details to firebase
         databaseReference.child("Users").child(user.getUid()).setValue(sp);
         Toast.makeText(EditProfile.this, "success", Toast.LENGTH_SHORT).show();
         Toast.makeText(EditProfile.this, "Please Upload CV", Toast.LENGTH_SHORT).show();

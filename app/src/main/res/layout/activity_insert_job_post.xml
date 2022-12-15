@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context="com.careerconnect.InsertJobPostActivity">
+    <!-- This is used for posting jobs -->
 
     <ScrollView
         android:layout_width="match_parent"

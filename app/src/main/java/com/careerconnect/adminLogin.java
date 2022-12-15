@@ -76,6 +76,7 @@ public class adminLogin extends AppCompatActivity {
                 mDialog.setMessage("Processing..");
                 mDialog.show();
 
+                //Redirect to Admin Home page after authenticate
 
 
                 //admin login

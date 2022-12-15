@@ -19,6 +19,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo1" />
+    <!-- Edit text for Entering email ID-->
 
     <EditText
         android:id="@+id/adminuser"
@@ -34,6 +35,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView9" />
+    <!-- Edit text for Entering Password-->
 
     <EditText
         android:id="@+id/adminpass"

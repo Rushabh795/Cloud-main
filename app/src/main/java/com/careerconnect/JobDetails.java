@@ -35,7 +35,6 @@ public class JobDetails extends AppCompatActivity {
         //Recieve data from all job activity using intent...
 
         Intent intent = getIntent();
-
         String title = intent.getStringExtra("title");
         String date =  intent.getStringExtra("date");
         String company = intent.getStringExtra("company name");

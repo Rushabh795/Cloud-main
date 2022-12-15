@@ -11,7 +11,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class Home extends AppCompatActivity {
 
-    ImageView viewJobs,showprofile, editprofile, applyforJob,logout;
+    ImageView viewJobs, showprofile, editprofile, applyforJob, logout;
 
     //firebase....
     private FirebaseAuth mAuth;
@@ -26,7 +26,6 @@ public class Home extends AppCompatActivity {
         logout = findViewById(R.id.logOut);
 
         mAuth = FirebaseAuth.getInstance();
-
 
 
         showprofile = findViewById(R.id.showProfile);
