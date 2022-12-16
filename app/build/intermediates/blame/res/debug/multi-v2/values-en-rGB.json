@@ -1,0 +1,130 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/e0bff60bd86162450f5a6836377adbca/jetified-play-services-basement-18.0.0/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "133",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4138",
+                        "endColumns": "137",
+                        "endOffsets": "4271"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/249b4797bfd6e3b0781168250d2ffac7/core-1.2.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "60",
+                        "startColumns": "4",
+                        "startOffsets": "5397",
+                        "endColumns": "100",
+                        "endOffsets": "5493"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/9dd6a5da1c5ae668a7995c3be6b75327/jetified-twitter-core-2.2.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,107,173,231,500",
+                        "endColumns": "51,65,57,268,74",
+                        "endOffsets": "102,168,226,495,570"
+                    },
+                    "to": {
+                        "startLines": "61,68,70,79,80",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "5498,5885,6003,6560,6829",
+                        "endColumns": "51,65,57,268,74",
+                        "endOffsets": "5545,5946,6056,6824,6899"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/1be2ab7a900ceb96312d0b2625f7a436/jetified-play-services-base-18.0.1/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "197,298,446,567,670,817,936,1048,1147,1302,1403,1551,1672,1814,1958,2017,2075",
+                        "endColumns": "100,147,120,102,146,118,111,98,154,100,147,120,141,143,58,57,74",
+                        "endOffsets": "297,445,566,669,816,935,1047,1146,1301,1402,1550,1671,1813,1957,2016,2074,2149"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47,48,50,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3156,3261,3413,3538,3645,3796,3919,4035,4276,4435,4540,4692,4817,4963,5111,5174,5236",
+                        "endColumns": "104,151,124,106,150,122,115,102,158,104,151,124,145,147,62,61,78",
+                        "endOffsets": "3256,3408,3533,3640,3791,3914,4030,4133,4430,4535,4687,4812,4958,5106,5169,5231,5310"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/89cf42b6b7979effbb3ccfc139c7c61c/jetified-tweet-composer-2.2.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,120,168,220",
+                        "endColumns": "64,47,51,48",
+                        "endOffsets": "115,163,215,264"
+                    },
+                    "to": {
+                        "startLines": "62,64,69,73",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5550,5669,5951,6147",
+                        "endColumns": "64,47,51,48",
+                        "endOffsets": "5610,5712,5998,6191"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/c83c4b06c0a70165ee856c4173acb8d8/appcompat-1.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,794,870,961,1053,1148,1242,1343,1436,1531,1625,1716,1807,1888,1991,2094,2193,2298,2402,2506,2662,2762",
+                        "endColumns": "103,99,107,83,99,114,77,75,90,91,94,93,100,92,94,93,90,90,80,102,102,98,104,103,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,789,865,956,1048,1143,1237,1338,1431,1526,1620,1711,1802,1883,1986,2089,2188,2293,2397,2501,2657,2757,2839"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,59",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "499,603,703,811,895,995,1110,1188,1264,1355,1447,1542,1636,1737,1830,1925,2019,2110,2201,2282,2385,2488,2587,2692,2796,2900,3056,5315",
+                        "endColumns": "103,99,107,83,99,114,77,75,90,91,94,93,100,92,94,93,90,90,80,102,102,98,104,103,103,155,99,81",
+                        "endOffsets": "598,698,806,890,990,1105,1183,1259,1350,1442,1537,1631,1732,1825,1920,2014,2105,2196,2277,2380,2483,2582,2687,2791,2895,3051,3151,5392"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/ece3c938e8b8016135aee96e104ec79d/jetified-tweet-ui-2.2.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,187,318,449,503,557,611,671,715,757,823,888,934,1004,1121,1199,1255,1331",
+                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "endColumns": "14,14,14,53,53,53,59,43,41,65,64,45,69,116,77,55,75,55",
+                        "endOffsets": "182,313,444,498,552,606,666,710,752,818,883,929,999,1116,1194,1250,1326,1382"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,63,65,66,67,71,72,74,75,76,77,78,81,82,83,84",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,237,368,5615,5717,5771,5825,6061,6105,6196,6262,6327,6373,6443,6904,6982,7038,7114",
+                        "endLines": "5,9,13,63,65,66,67,71,72,74,75,76,77,78,81,82,83,84",
+                        "endColumns": "14,14,14,53,53,53,59,43,41,65,64,45,69,116,77,55,75,55",
+                        "endOffsets": "232,363,494,5664,5766,5820,5880,6100,6142,6257,6322,6368,6438,6555,6977,7033,7109,7165"
+                    }
+                }
+            ]
+        }
+    ]
+}

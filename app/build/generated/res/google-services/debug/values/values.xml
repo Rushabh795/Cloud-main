@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">253010575280-cc7l23pvfbebb35op6ltar0f5o3sf52i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://careerconnect-96970-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">253010575280</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDfTrVEyiGFtn5Dr40ED61iWMXU8xpXqo</string>
+    <string name="google_app_id" translatable="false">1:253010575280:android:36ed787e48c59bc1882075</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDfTrVEyiGFtn5Dr40ED61iWMXU8xpXqo</string>
+    <string name="google_storage_bucket" translatable="false">careerconnect-96970.appspot.com</string>
+    <string name="project_id" translatable="false">careerconnect-96970</string>
+</resources>

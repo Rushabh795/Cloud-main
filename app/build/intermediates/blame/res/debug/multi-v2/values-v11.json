@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/89cf42b6b7979effbb3ccfc139c7c61c/jetified-tweet-composer-2.2.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,565",
+                        "endLines": "9,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "560,1076"
+                    }
+                },
+                {
+                    "source": "/Users/rushabhshah/.gradle/caches/transforms-2/files-2.1/ece3c938e8b8016135aee96e104ec79d/jetified-tweet-ui-2.2.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "315"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1081",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1341"
+                    }
+                }
+            ]
+        }
+    ]
+}

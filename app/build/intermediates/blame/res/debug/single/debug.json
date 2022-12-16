@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_edit_profile.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_icmore_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/icmore_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_jchat_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_jchat_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_search.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/search.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icmore_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/icmore_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_jchat_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_jchat_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_view_candidates.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_view_candidates.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_input_field.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/input_field.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/menu_menu_nav.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/menu/menu_nav.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_apply.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/apply.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_jchat_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_jchat_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_profile_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_share_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_share_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_job_post_item.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/job_post_item.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_bgapps.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/bgapps.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_send_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_send_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_blog.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/blog.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_view_job_posts.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/view_job_posts.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_edit.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/edit.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_send_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_send_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_job_details.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_job_details.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_home2.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_home2.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_show_profile.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_show_profile.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/menu_mainmenu.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/menu/mainmenu.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_back2.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/back2.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable_circle_bg.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_comment_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_comment_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_jobs_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_jobs_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_jchat_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_jchat_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxhdpi/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_splash.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/splash.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_comment_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_jobs_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_jobs_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_icmore_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/icmore_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_view_jobs.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_view_jobs.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-mdpi_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-mdpi/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_profile_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_view_candiates_posts.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/view_candiates_posts.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_like_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_like_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_icmore_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/icmore_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_like_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_like_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_insert_job_post.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_insert_job_post.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_profile_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_profile_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_button.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/button.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_comment_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_like_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_like_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable_profile.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_like_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_like_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_share_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_share_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxxhdpi/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_admin_login.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_share_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_profile.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/profile.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_ic_date_range_black_24dp.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_send_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_comment_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_profile_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_profile_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_jobs_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_jobs_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_jobs_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xxhdpi/ic_jobs_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_editextstyle.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/editextstyle.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_send_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_send_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_apply_job.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_apply_job.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_comment_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_share_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/ic_share_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable_popup_edittext_style.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable/popup_edittext_style.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_notepad.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/notepad.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-hdpi_logo1.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-hdpi/logo1.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_userphoto.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/userphoto.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_post_job.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_post_job.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_jobs_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/ic_jobs_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-mdpi_icmore_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-mdpi/icmore_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_share_black.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-xhdpi/ic_share_black.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_home_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_home_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_back.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/back.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_applied_jobs.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_applied_jobs.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-v24_logout.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-v24/logout.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_like_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_like_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable_ic_create_black_24dp.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable/ic_create_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_jchat_black.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/drawable-anydpi/ic_jchat_black.xml"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/mipmap-hdpi_add.png.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/mipmap-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/build/intermediates/res/merged/debug/layout_activity_admin_home.xml.flat",
+        "source": "/Users/rushabhshah/Desktop/Cloud/Cloud-Main/Cloud-main/app/src/main/res/layout/activity_admin_home.xml"
+    }
+]
